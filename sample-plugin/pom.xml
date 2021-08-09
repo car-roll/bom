@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.jenkins.tools.bom</groupId>
     <artifactId>sample</artifactId>
-    <version>${revision}${changelist}</version>
+    <version>923.v08bdc07cd40f</version>
     <packaging>hpi</packaging>
     <properties>
         <revision>27</revision>
